@@ -1,0 +1,8 @@
+vTabla	vTabla-module.html
+vTabla.Tabla	vTabla.Tabla-class.html
+vTabla.Tabla.on_botonBorrar_clicked	vTabla.Tabla-class.html#on_botonBorrar_clicked
+vTabla.Tabla.crearTabla	vTabla.Tabla-class.html#crearTabla
+vTabla.Tabla.on_botonInforme_clicked	vTabla.Tabla-class.html#on_botonInforme_clicked
+vTabla.Tabla.on_botonCrear_clicked	vTabla.Tabla-class.html#on_botonCrear_clicked
+vTabla.Tabla.conexionBaseDatos	vTabla.Tabla-class.html#conexionBaseDatos
+vTabla.Tabla.__init__	vTabla.Tabla-class.html#__init__
