@@ -1,8 +1,8 @@
 # Organizador de eventos
 
 - Para abrir el programa simplemente ejecutar el fichero vPrincipal.
-- Para ver al documentacion ejecutamos el archivo index.html de la carpeta documentacion.
-- Para ver el informe generado con el programa se ejecuta el archivo informe.pdf
+- Para ver al documentacion ejecutamos el archivo index.html de la carpeta html.
+- Para ver el informe generado con el programa se ejecuta el archivo informe.pdf de la carpeta informes.
 
 La nueva versión del programa contiene un menú para dar acceso más directo a algunas acciones importantes. Además se han insertado algunos iconos para ayudar a realizar ciertas acciones. También se ha dispuesto más espaciado entre los elementos de la interfaz.
 
